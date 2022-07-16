@@ -1,1 +1,2 @@
-# Suervised-learning-
+# Supervied learning 
+
